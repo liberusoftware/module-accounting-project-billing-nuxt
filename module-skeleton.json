@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-project-billing-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-project-billing",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-project-billing-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/project-billing.md",
+  "presentationPlan": "projects/accounting/nuxt/project-billing.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
